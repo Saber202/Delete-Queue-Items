@@ -4,6 +4,7 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "Delete_Queue_Items_in_Specific_Period": "[1.0.1]",
     "UiPath.System.Activities": "[24.10.7]"
   },
   "webServices": [],
